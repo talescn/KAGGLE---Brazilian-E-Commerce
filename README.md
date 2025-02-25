@@ -1,8 +1,27 @@
+# 📦 Análise de Dados - Brazilian E-Commerce (Kaggle) | Data Analysis - Brazilian E-Commerce (Kaggle)
+
 <details open>
 <summary>🇧🇷 Português</summary>
 
-# 📌 Nome do Projeto
-Descrição do projeto em **português**.
+Este repositório contém uma análise exploratória do [Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), disponível no Kaggle. O dataset inclui informações sobre pedidos realizados entre 2016 e 2018, abrangendo detalhes como status do pedido, tempo de entrega, preços, pagamentos e avaliações dos clientes.
+
+## ⚠️ Status do Projeto: Em Desenvolvimento  
+🚧 Ainda faltam **4 arquivos `.csv`** para a análise completa, mas o repositório já está sendo atualizado conforme avanços forem feitos.
+
+---
+
+## 📌 Objetivos do Projeto
+- 📊 **Explorar e limpar os dados**  
+- ⏳ **Analisar o tempo entre as etapas do pedido** (compra, aprovação, entrega)  
+- 📉 **Criar visualizações com gráficos e estatísticas**  
+- 🔍 **Identificar padrões nos status dos pedidos**  
+
+---
+
+## 🛠 Tecnologias Utilizadas
+- 🐍 **Python** (Pandas, NumPy, Seaborn, Matplotlib)  
+- ☁ **Google Colab** para execução dos notebooks  
+- 📓 **Jupyter Notebook** (alternativa)  
 
 ---
 
@@ -41,8 +60,25 @@ Este projeto está sob a licença MIT.
 <details>
 <summary>🇺🇸 English</summary>
 
-# 📌 Project Name
-Project description in **English**.
+This repository contains an exploratory analysis of the [Brazilian E-Commerce Public Dataset](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce), available on Kaggle. The dataset includes information on orders placed between 2016 and 2018, covering details such as order status, delivery time, prices, payments, and customer reviews.
+
+## ⚠️ Project Status: In Progress  
+🚧 **4 `.csv` files** are still missing for the complete analysis, but the repository is being updated as progress is made.
+
+---
+
+## 📌 Project Goals
+- 📊 **Explore and clean the data**  
+- ⏳ **Analyze the time between order steps** (purchase, approval, delivery)  
+- 📉 **Create visualizations with graphs and statistics**  
+- 🔍 **Identify patterns in order statuses**  
+
+---
+
+## 🛠 Technologies Used
+- 🐍 **Python** (Pandas, NumPy, Seaborn, Matplotlib)  
+- ☁ **Google Colab** for running notebooks  
+- 📓 **Jupyter Notebook** (alternative)  
 
 ---
 
