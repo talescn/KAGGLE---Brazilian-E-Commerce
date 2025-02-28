@@ -29,7 +29,7 @@ Este repositório contém uma análise exploratória do [Brazilian E-Commerce Pu
 
 1. **Clone este repositório:**
    ```bash
-   git clone https://github.com/TarmesP/KAGGLE---Brazilian-E-Commerce.git
+   git clone https://github.com/talescn/KAGGLE---Brazilian-E-Commerce.git
 
 2. **📂 Acesse a pasta do projeto:**
     ```bash
@@ -86,7 +86,7 @@ This repository contains an exploratory analysis of the [Brazilian E-Commerce Pu
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/TarmesP/KAGGLE---Brazilian-E-Commerce.git
+   git clone https://github.com/talescn/KAGGLE---Brazilian-E-Commerce.git
 
 2. **📂 Access the project folder:**
     ```bash
